@@ -1,4 +1,5 @@
-  Gilded Rose
+```
+Gilded Rose
     √ should properly update normal item (3ms)
     √ should properly decrease quality twice as fast for normal item after sellIn passed
     √ should not have negative quality for normal item (1ms)
@@ -34,3 +35,4 @@ Tests:       11 passed, 11 total
 Snapshots:   0 total
 Time:        1.905s
 Ran all test suites.
+```
